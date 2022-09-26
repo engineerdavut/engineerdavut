@@ -21,10 +21,10 @@ My personal repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/davut-akta%c5%9f-0462779b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davut-akta%c5%9f-0462779b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14586857/engineerdavut?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14586857/engineerdavut?tab=profile" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/davutaktas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/davutaktas/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/engineerdavut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/engineerdavut" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/davut-akta%c5%9f-0462779b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davut-akta%c5%9f-0462779b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14586857/engineerdavut?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14586857/engineerdavut?tab=profile" height="30" width="40" /></a>
+<a href="https://kaggle.com/davutaktas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="davutaktas/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/engineerdavut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engineerdavut" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,3 +35,4 @@ My personal repository.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engineerdavut&show_icons=true&locale=en" alt="engineerdavut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineerdavut&" alt="engineerdavut" /></p>
+
