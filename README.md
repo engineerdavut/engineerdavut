@@ -1,4 +1,4 @@
-# davutaktas
+# Davut Aktaş
 My personal repository.
 <h1 align="center">Hi 👋, I'm Davut</h1>
 <h3 align="center">A passionate backend developer from Türkiye.</h3>
