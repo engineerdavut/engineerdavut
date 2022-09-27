@@ -1,5 +1,3 @@
-# Davut Aktaş
-My personal repository.
 <h1 align="center">Hi 👋, I'm Davut</h1>
 <h3 align="center">A passionate backend developer from Türkiye.</h3>
 
@@ -15,12 +13,13 @@ My personal repository.
 
 - 📫 How to reach me **engineerdavut@gmail.com**
 
-- 📄 Know about my experiences [English CV](https://drive.google.com/file/d/1zyY5Oz8EZYeDp0FRZuq_Jx2JoaqLOFUf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zyY5Oz8EZYeDp0FRZuq_Jx2JoaqLOFUf/view?usp=sharing](https://drive.google.com/file/d/1zyY5Oz8EZYeDp0FRZuq_Jx2JoaqLOFUf/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm happy,positive,friendly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/davutaktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="davutaktas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davut-akta%c5%9f-0462779b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davut-akta%c5%9f-0462779b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14586857/engineerdavut?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14586857/engineerdavut?tab=profile" height="30" width="40" /></a>
 <a href="https://kaggle.com/davutaktas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="davutaktas/" height="30" width="40" /></a>
@@ -35,4 +34,5 @@ My personal repository.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engineerdavut&show_icons=true&locale=en" alt="engineerdavut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineerdavut&" alt="engineerdavut" /></p>
+
 
