@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/davutaktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="davutaktas" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/davut-akta%c5%9f-0462779b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davut-akta%c5%9f-0462779b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14586857/engineerdavut?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14586857/engineerdavut?tab=profile" height="30" width="40" /></a>
 <a href="https://kaggle.com/davutaktas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="davutaktas/" height="30" width="40" /></a>
